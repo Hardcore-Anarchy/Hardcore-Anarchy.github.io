@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/zerodaydaemon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.hardcoreanarchy.net
+  * I am zerodaydaemon (https://keybase.io/zerodaydaemon) on keybase.
+  * I have a public key ASC5IZFV60mT9o-MMhUpUTRh8u5xAVLp0ZRNv76GIIbqXQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ad978f7db5ebcbeb1030287dfa2ab51d4e9c9b2baa90aa49e59a47da15c094120a",
+      "host": "keybase.io",
+      "kid": "0120b9219155eb4993f68f8c321529513461f2ee710152e9d1944dbfbe862086ea5d0a",
+      "uid": "437b527dcc92f70e1195e18ccf598119",
+      "username": "zerodaydaemon"
+    },
+    "merkle_root": {
+      "ctime": 1568060851,
+      "hash": "e586cb8f1fd3ca3ca75bfd17b1c7c278067660e2f864f440d19bc213666ce3124acf533f60a82b8f86796aee43ae0f9499addfad099fca8c557e11fd14f78ea0",
+      "hash_meta": "1dff610e027c886a11fe874e5081caec4e221e06ffbf7a7d20fe94cb490f73ba",
+      "seqno": 6249197
+    },
+    "service": {
+      "entropy": "p5Jokhcy0Khgspc/wyNEFN20",
+      "hostname": "www.hardcoreanarchy.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568060864,
+  "expire_in": 504576000,
+  "prev": "7655d5866a41ee0738eafc12f8e08e39bf86665aa5c3f19143ccdf349a33fcd5",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEguSGRVetJk/aPjDIVKVE0YfLucQFS6dGUTb++hiCG6l0Kp3BheWxvYWTESpcCD8QgdlXVhmpB7gc46vwS+OCOOb+GZlqlw/GRQ8zfNJoz/NXEIMqh4+jlUU8NgUGvIG7SY9MF+FBwM7YcxjpIpb0ukwwxAgHCo3NpZ8RArutEgg/54N4OpqqCDaQYa0j+rdPvBZdW1C4da/PV0u0GKSrYp4Al6DoHen/GLW5RtjWtgjFs2nlcqXU8jmhgC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEII9woIh43GCtF+on+nov/H1hB26Z1fX202oKyHMm05rmo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zerodaydaemon
+
+==================================================================
