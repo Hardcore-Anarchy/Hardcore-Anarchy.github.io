@@ -40,8 +40,7 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  var audio = new Audio('snd/pling.mp3');
-  audio.play();
-
-  alert("Achievement Unlocked: Use A Cheat Code");
+var snd = new Audio('snd/pling.mp3');    
+snd .onended = function () {  alert("Achievement Unlocked: Use A Cheat Code"); };
+snd .play();
 }
